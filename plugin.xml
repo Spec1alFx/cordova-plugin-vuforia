@@ -91,10 +91,10 @@
                      target-dir="src/java/com/mattrayner/vuforia/app/utils" />
 
         <!-- Include our resources -->
-        <resource-file src="targets/PluginTest.dat"
-                       target="assets/PluginTest.dat" />
-        <resource-file src="targets/PluginTest.xml"
-                       target="assets/PluginTest.xml" />
+        <resource-file src="targets/sguardosullealpi.dat"
+                       target="assets/sguardosullealpi.dat" />
+        <resource-file src="targets/sguardosullealpi.xml"
+                       target="assets/sguardosullealpi.xml" />
     </platform>
 
     <!-- ios -->
